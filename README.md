@@ -1,6 +1,8 @@
-### Hi there 👋
+## Hi there 👋 I'm a Python developer
 
 <img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
+
+## Technology stack
 
 **Back-end**
 
