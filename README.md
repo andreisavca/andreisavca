@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm a Python developer
 
-<img align="right" alt="GIF" src="https://github.com/andreisavca/andreisavca/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/andreisavca/andreisavca/blob/master/files/code.gif?raw=true" width="500" height="320" />
 
 ## Technology stack
 
