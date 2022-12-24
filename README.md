@@ -29,7 +29,7 @@
 **Tools**
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-ffce5a?style=flat-square&logo=jetbrains)
+![PyCharm](https://img.shields.io/badge/-PyCharm-ffce5a?style=flat-square&logo=PyCharm)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
